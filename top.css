@@ -1,0 +1,29 @@
+/* CSS Document */
+#top{
+width:1000px;
+height:360px;
+margin:0 auto 0 auto;
+}
+#side-bar{
+width:180px;
+float:left;
+}
+#ttt{
+height:40px;
+background:#00510F;
+font-size:16px;
+color:#FFFFFF;
+font-weight:bold;
+font-family:"ËÎÌו";
+text-align:center;
+line-height:40px;
+}
+.ss{
+height:80px;
+border-bottom:1px solid #999999;
+border-left:1px solid #FF0000;
+text-align:center;
+line-height:80px;
+}
+#center{
+float:left;}

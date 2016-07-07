@@ -1,0 +1,31 @@
+/* CSS Document */
+#daohang{
+height:40px;
+background-color:#00510F;
+margin-bottom:3px;
+border:2px solid red;
+}
+ul,li{
+	display:inline;
+	width:150px;
+	list-style:none;
+	padding-right:120px;
+	line-height:40px;
+}
+#nav{
+	width:1000px;
+	margin:0 auto;
+	
+}
+#nav a{
+color:white;
+font-size:16px;
+font-family:"ËÎÌו";
+font-weight:bold;
+text-decoration:none;
+position:relative;
+top:-5px;
+}
+
+
+

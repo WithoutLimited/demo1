@@ -1,0 +1,49 @@
+/* CSS Document */
+#kuaisou{
+	/*float:left;*/
+	width:1000px;
+	height:80px;
+	background-color:#534B49;
+	margin:0 auto 3px auto;
+	position:relative;
+	/*margin-bottom:3px;*/
+}
+#aa{
+	font-size:24px;
+	font-family:"宋体";
+	line-height:80px;
+}
+#font{
+ margin-left:40px;}
+#bb{
+	font-size:36px;
+	color:red;
+	font-family:"新宋体";
+	line-height:80px;
+}
+#kk{
+	font-size:24px;
+	color:#FFFFFF;
+	font-family:"宋体";
+	line-height:80px;
+}
+#zhushou{
+	right:100px;
+	margin-top:10px;
+	position:absolute;
+}
+
+#kuaisou textarea{
+	width:400px;
+	height:60px;	
+	}
+#kuaisou input{
+	border-style:none;
+	height:65px;
+	font-size:24px;
+	background:#FF0000;
+	color:#FFFFFF;	
+	float:right;
+	width:100px;
+	}
+

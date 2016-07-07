@@ -1,0 +1,28 @@
+/* CSS Document */
+#hh{
+height:25px;
+background-color:#F6F6F6;
+}
+#tou{
+width:1000px;
+margin:0 auto 0 auto;
+}
+#tt{
+float:left;
+}
+#tt>a,span{
+font-size:10px;
+font-family:"ËÎÌו";
+color:black;
+text-decoration:none;
+}
+#dd{
+float:right;
+}
+#dd>a,span{
+color:black;
+font-size:10px;
+font-family:"ËÎÌו";
+text-decoration:none;
+}
+

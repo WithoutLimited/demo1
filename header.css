@@ -1,0 +1,33 @@
+/* CSS Document */
+#header{
+height:90px;
+width:1000px;
+margin:0 auto;
+position:relative;
+}
+
+
+#kuang{
+	position:absolute;
+	top:20px;
+	right:15px;
+	
+}
+#button{
+	float:right;
+	border-style:none;
+	height:36px;
+	width:80px;
+	background-color:#FF0000;
+	color:#FFFFFF;
+	font-size:16px;
+	}
+#text{
+	height:30px;
+	width:250px;
+	border:2px solid red;
+	}
+
+
+
+
